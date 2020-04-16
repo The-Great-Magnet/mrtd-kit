@@ -39,6 +39,9 @@ a {
 
 a:hover, a:focus {
   color:#C57500;
+}
+
+p > a:hover, p > a:focus {
    font-weight: normal;
 }
 

@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 #logo {
-  margin-bottom: 16
+  margin-bottom: 120px;
 }
 
 header {

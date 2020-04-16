@@ -4,6 +4,26 @@ MRTD Kit is a set of libraries and applications that provide functionality for v
 
 The format of these documents is defined by the ICAO 9303 document series, which the library strictly adheres to.
 
+## Quick start guide
+
+The `validation` library contains everything you need to get started with MRTD kit.
+
+Add the following to your project's `build.gradle` file:
+
+```groovy
+repositories {
+    maven(url = "https://dl.bintray.com/the-great-magnet/mrtd-kit")
+}
+
+dependencies {
+    implementation("uk.co.greatmagnet.mrtd:mrtd-kit-validation:0.2.0")
+}
+```
+
+If you're using a different build automation system, see the [full documentation.](https://github.com/The-Great-Magnet/mrtd-kit-validation-kt "MRTD Kit Validation Module").
+
+
+
 ### Components
 
 #### Specification Module

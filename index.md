@@ -43,4 +43,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- **Got a question?**: Drop me an [email](mailto:greg@greatmagnet.co.uk)
+- **Think you found a bug?** [Open an issue](https://github.com/the-great-magnet/mrtd-kit-validation-kt/issues/new/choose). If possible, include the version of MRTD Kit that you're using and any relevant logs that may be available.
+- **Have a feature request?** [Open an issue](https://github.com/the-great-magnet/mrtd-kit-validation-kt/issues/new/choose). Tell me what the feature should do, and why you want the feature.

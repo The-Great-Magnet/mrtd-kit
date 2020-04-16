@@ -26,11 +26,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h2 {
-  color:#CCCCCC;
+  color:#FFFFFF;
 }
 
 h3, h4, h5, h6 {
-  color:#AAAAAA;
+  color:#CCCCCC;
 }
 
 a {
@@ -38,9 +38,10 @@ a {
 }
 
 a:hover, a:focus {
-  color:#069;
+  color:#C57500;
+   font-weight: normal;
 }
 
 a:hover small {
-  color:#777;
+  color:#C57500;
 }

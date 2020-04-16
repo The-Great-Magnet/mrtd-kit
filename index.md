@@ -10,16 +10,20 @@ The format of these documents is defined by the ICAO 9303 document series, which
 
 The specification module provides definitions of the various types of machine readable travel documents.
 
-The documentation and quickstart guide for the Kotlin version can be viewed [here](https://github.com/The-Great-Magnet/mrtd-kit-spec-kt "MRTD Kit Specification Module").
+The documentation and quick start guide for the Kotlin version can be viewed [here](https://github.com/The-Great-Magnet/mrtd-kit-spec-kt "MRTD Kit Specification Module").
 
 #### Core Module
 
 The core module provides functionality for creating and manipulating representations of machine readable travel documents.
 
+The documentation and quick start guide for the Kotlin version can be viewed [here](https://github.com/The-Great-Magnet/mrtd-kit-core-kt "MRTD Kit Core Module").
+
 #### Validation Module
 
 The validation module provides functionality for validating MRTD document representations, created using the functionality from the `core` module, against the specification
 defined by the `specification` module.
+
+The documentation and quick start guide for the Kotlin version can be viewed [here](https://github.com/The-Great-Magnet/mrtd-kit-validation-kt "MRTD Kit Validation Module").
 
 #### Android Application
 

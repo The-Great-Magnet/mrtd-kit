@@ -4,5 +4,5 @@
 @import "{{ site.theme }}";
 
 #logo {
-  padding-bottom: 16
+  margin-bottom: 16
 }

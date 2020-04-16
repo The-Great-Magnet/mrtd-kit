@@ -1,5 +1,6 @@
 title: MRTD Kit
 logo: /assets/img/logo_270_transparent.png
+logoRetina: /assets/img/logo_540_transparent.png
 description: MRTD Kit is a framework for working with machine readable travel documents.
 show_downloads: false
 google_analytics:

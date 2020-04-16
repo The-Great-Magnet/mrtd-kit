@@ -17,16 +17,14 @@
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" srcset="test.png 2x" alt="Test" id="logo" />
+          <img src="{{site.logo | relative_url}}" srcset="{{site.logoRetina | relative_url}} 2x" alt="Logo" id="logo" />
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         <a href='https://play.google.com/store/apps/details?id=uk.co.greatmagnet.mrtd.android&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img id="google-play-image" alt='Get it on Google Play' src='https://play.google.com/intl/en_gb/badges/static/images/badges/en_badge_web_generic.png'/></a>
 
-        <!-- {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %} -->
+
 
       </header>
       <section>

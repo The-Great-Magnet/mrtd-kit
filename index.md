@@ -11,8 +11,8 @@ For instructions on how to use the Kotlin version of MRTD Kit, see the project o
 
 #### Android Application
 
-An Android application is available which implements MRTD kit.
-Click the link on the sidebar or search MRTD Kit on the Google Play store.
+An Android application is available [here](https://play.google.com/store/apps/details?id=uk.co.greatmagnet.mrtd.android) which implements MRTD kit.
+Alternatively, search for MRTD Kit on the Google Play store.
 
 
 ### Support or Contact

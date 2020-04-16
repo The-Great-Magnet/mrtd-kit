@@ -4,9 +4,24 @@ MRTD Kit is a set of libraries and applications that provide functionality for v
 
 The format of these documents is defined by the ICAO 9303 document series, which the library strictly adheres to.
 
+### Components
 
+#### Specification Module
 
-### Android Application
+The specification module provides definitions of the various types of machine readable travel documents.
+
+The documentation and quickstart guide for the Kotlin version can be viewed [here](https://github.com/The-Great-Magnet/mrtd-kit-spec-kt "MRTD Kit Specification Module").
+
+#### Core Module
+
+The core module provides functionality for creating and manipulating representations of machine readable travel documents.
+
+#### Validation Module
+
+The validation module provides functionality for validating MRTD document representations, created using the functionality from the `core` module, against the specification
+defined by the `specification` module.
+
+#### Android Application
 
 An Android application is available which implements MRTD kit.
 Click the link on the sidebar or search MRTD Kit on the Google Play store.

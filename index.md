@@ -6,12 +6,11 @@ The format of these documents is defined by the ICAO 9303 document series, which
 
 
 
-### Android applications
+### Android Application
 
 An Android application is available which implements MRTD kit.
-Click the link below or search MRTD Kit on the Google Play store.
+Click the link on the sidebar or search MRTD Kit on the Google Play store.
 
-[![Get it on Google Play](https://play.google.com/intl/en_gb/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=uk.co.greatmagnet.mrtd.android&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 
 ### Markdown
 

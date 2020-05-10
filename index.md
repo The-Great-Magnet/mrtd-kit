@@ -6,9 +6,9 @@ The format of these documents is defined by the ICAO 9303 document series, which
 
 ## Getting Started
 
-For instructions on how to use the Kotlin version of MRTD Kit, see the project on [here.](https://github.com/The-Great-Magnet/mrtd-kit-kt)
+For instructions on how to use the Kotlin version of MRTD Kit, see the project [here.](https://github.com/The-Great-Magnet/mrtd-kit-kt)
 
-For instructions on how to use the Swift version of MRTD Kit, see the project on [here.](https://github.com/The-Great-Magnet/mrtd-kit-swift)
+For instructions on how to use the Swift version of MRTD Kit, see the project [here.](https://github.com/The-Great-Magnet/mrtd-kit-swift)
 
 
 #### Android Application

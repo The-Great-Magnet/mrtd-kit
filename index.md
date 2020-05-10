@@ -23,7 +23,7 @@ Alternatively, search for MRTD Kit on the App Store.
 
 
 
-### Support or Contact
+## Support or Contact
 
 Send an email to [info@mrtd.co.uk](mailto:info@mrtd.co.uk).
 
